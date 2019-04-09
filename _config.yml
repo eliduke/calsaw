@@ -1,0 +1,9 @@
+# Site settings
+title: California Saw &amp; Knife Works
+email: hotwontquit@gmail.com
+description: Leading Saw Technology Since 1886
+baseurl: "/calsaw" # the subpath of your site, e.g. /blog/
+url: "https://calsaw.com" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
